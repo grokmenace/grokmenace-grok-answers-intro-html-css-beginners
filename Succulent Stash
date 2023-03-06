@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  width: 100%;
+  margin: 0 0;
+  color: rgb(0, 180, 118);
+  background-color: rgb(192, 255, 222);
+  font-size: 70px;
+}
+p {
+  width: 650px;
+  margin: 40px 187px;
+  color: rgb(99, 149, 131);
+  font-size: 20px;
+}
+img{
+  width: 100%;
+}
+span{
+  font-size: 30px;
+}
